@@ -1,0 +1,11 @@
+.Pokeshow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.Pokeshow-score {
+  text-align: center;
+  margin: 0 0 50px 0;
+}
